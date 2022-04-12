@@ -1,0 +1,6 @@
+﻿nnsvs.pitch.lowpass\_filter
+===========================
+
+.. currentmodule:: nnsvs.pitch
+
+.. autofunction:: lowpass_filter
